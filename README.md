@@ -42,3 +42,5 @@ This may be because rainy and snowy weather motivate people to get to their dest
 In terms of age, people in their early to mid-twenties are the most common demographic likely to accept a coupon for takeout food.
 Drivers in their 40's seem to be the most likely to reject the coupon but interestingly, those in their 50's seem to gravitate towards accepting the coupon.
 The acceptance rate of those under 21 is very low, which may be due to the fact that a majority of these individuals may still be teenagers or even younger and are less likely to have their license to drive.
+
+As a general conclusion, based on these observations, a person is more likely to accept a coupon for a takeout restaurant while driving if they are in their mid to late twenties, weather is sunny, they make less than 50k in income, they regularly order takeout food every month, and they are driving home
