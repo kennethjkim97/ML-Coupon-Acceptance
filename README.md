@@ -1,3 +1,5 @@
+Link to Jupyter Notebook in Colab: https://colab.research.google.com/drive/1IfNWaa5cUaGMtQPEwfrQwVLegdagyGZ0?usp=sharing
+
 For my independent investigation, I will be observing the Takeout coupon group and will try to determine the characteristics of passengers who accept these coupons.
 Acceptance Rate: There is a 74% chance that drivers who receive a takeout coupon will accept it.
 
