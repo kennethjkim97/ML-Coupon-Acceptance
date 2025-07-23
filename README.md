@@ -15,6 +15,9 @@ People driving to work are the least likely at 65%. This may be due to the fact 
 People making less than 50k annually in income are more likely to accept a coupon for takeout, with those making $25000 - 37499 being the most common people accepting the coupon. This may be due to takeout food generally being cheaper.
 One interesting observation is that those who make between 60k and 100k are among the least likely to accept a takeout coupon. However, those making 100k or more are among the most likely to accept the coupon.
 
+<img width="1238" height="553" alt="image" src="https://github.com/user-attachments/assets/cfc8bad3-8172-4e94-befc-a039be51ed74" />
+
+
 ## **Combination of Scenarios**
 
 ### **Takeout regular, kids in the car, married**
@@ -42,11 +45,17 @@ People who are male and single are around just as likely to accept the coupon th
 If the person who received the coupon is driving in sunny weather, they are considerably more likely to accept the coupon based on the high frequency of acceptance in the visualizations in the Jupyter notebook.
 This may be because rainy and snowy weather motivate people to get to their destination as soon as possible and do not want to take detours which will prolong the amount of time they need to drive in bad weather.
 
+<img width="936" height="470" alt="image" src="https://github.com/user-attachments/assets/8c155e3e-dff0-470f-ab48-c92fa27dd70f" />
+
+
 ### **Age**
 
 In terms of age, people in their early to mid-twenties are the most common demographic likely to accept a coupon for takeout food.
 Drivers in their 40's seem to be the most likely to reject the coupon but interestingly, those in their 50's seem to gravitate towards accepting the coupon.
 The acceptance rate of those under 21 is very low, which may be due to the fact that a majority of these individuals may still be teenagers or even younger and are less likely to have their license to drive.
+
+<img width="928" height="470" alt="image" src="https://github.com/user-attachments/assets/7473e5b2-a37f-4df4-9eb7-f8e0c7313b62" />
+
 
 ## **Next Steps** 
 In terms of next steps, advertisers and businesses can utilize these observations to curate better content of the coupon and choose the optimal conditions to send these coupons to drivers.
