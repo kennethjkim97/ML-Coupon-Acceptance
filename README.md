@@ -1,3 +1,4 @@
+Link to Jupyter Notebook in Github: https://github.com/kennethjkim97/ML-Coupon-Acceptance/blob/main/kenneth_kim_assignment_5_1.ipynb
 Link to Jupyter Notebook in Colab: https://colab.research.google.com/drive/1IfNWaa5cUaGMtQPEwfrQwVLegdagyGZ0?usp=sharing
 
 ## **Overview**
