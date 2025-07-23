@@ -1,7 +1,10 @@
 Link to Jupyter Notebook in Colab: https://colab.research.google.com/drive/1IfNWaa5cUaGMtQPEwfrQwVLegdagyGZ0?usp=sharing
 
-For my independent investigation, I will be observing the Takeout coupon group and will try to determine the characteristics of passengers who accept these coupons.
+## **Overview**
+For my independent investigation, I will be observing a dataset containing characteristics of people who received coupons while driving, particularly the Takeout food coupon group, and will try to determine the characteristics of passengers who accept these coupons.
 Acceptance Rate: There is a 74% chance that drivers who receive a takeout coupon will accept it.
+
+## **Findings**
 
 ### **Destination**
 People driving home are the most likely to accept a coupon for a takeout restaurant at 79%. This makes sense as buying takeout food implies the person will not eat in that immediate area and since they are already driving home, they can pickup food on the way.
@@ -34,12 +37,12 @@ People who eat at cheap restaurants often, is an unemployed student, and works i
 
 People who are male and single are around just as likely to accept the coupon than anyone else at a rate of 75%. Other people have an acceptance rate of 73%. Thus, there is no strong determination of acceptance based on the combination of gender and marital status.
 
-## **Weather**
+### **Weather**
 
 If the person who received the coupon is driving in sunny weather, they are considerably more likely to accept the coupon based on the high frequency of acceptance in the visualizations in the Jupyter notebook.
 This may be because rainy and snowy weather motivate people to get to their destination as soon as possible and do not want to take detours which will prolong the amount of time they need to drive in bad weather.
 
-## **Age**
+### **Age**
 
 In terms of age, people in their early to mid-twenties are the most common demographic likely to accept a coupon for takeout food.
 Drivers in their 40's seem to be the most likely to reject the coupon but interestingly, those in their 50's seem to gravitate towards accepting the coupon.
@@ -64,6 +67,5 @@ This data can indicate how far people might be willing to drive to redeem their 
 Other more granular categories can be personal habits such as whether or not someone is vegetarian or does not drink, etc. Additionally, the coupon type can be fleshed out to be more specific whether or not a restaurant specializes in meat menu items or vegetarian items. We currently are only observing restaurants in terms of price, but the actual themes and food that the restaurants are associated with are not clearly defined.
 
 For the coffee house and bar categories, data observing if the driver likes or is opposed to caffeine or alcohol can be collected as well. As these establishments are logically known to specialize in serving drinks with these stimulants, we can analyze if they are ok with these and whether or not they still chose to accept the coupon to bars or cafes with this knowledge.
-
 
 As a general conclusion, based on these observations, a person is more likely to accept a coupon for a takeout restaurant while driving if they are in their mid to late twenties, weather is sunny, they make less than 50k in income, they regularly order takeout food every month, and they are driving home
